@@ -1,4 +1,4 @@
-# Implementação básica GrpahQL em Go
+# Implementação básica GraphQL em Go
 - iniciar servidor GraphQL (GraphQL Playground em http://localhost:8080)
 ```bash
 go run server.go
